@@ -1,4 +1,5 @@
-# Fertility-Machine Learning
+# Predicting Male Fertility using Machine Learning
+This app uses data from the UCI data repository to predict male fertility. Various models were analyzed used Python scikit and finally Azure ML was used. 
 
 DATA SOURCE: http://archive.ics.uci.edu/ml/datasets/Fertility
 
