@@ -1,4 +1,4 @@
-# Fertility-ML-Project
+# Fertility-Machine Learning
 
 DATA SOURCE: http://archive.ics.uci.edu/ml/datasets/Fertility
 
